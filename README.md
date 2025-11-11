@@ -23,15 +23,19 @@ Interactive canvas-based animation system featuring animated stickers and poster
 
 ## Documentation
 
-See [FRAMEWORK.md](FRAMEWORK.md) for detailed API documentation and usage examples.
+- **[QUICKSTART.md](QUICKSTART.md)** - Get started in 5 minutes
+- **[FRAMEWORK.md](FRAMEWORK.md)** - Complete API documentation
+- **[EXAMPLES.md](EXAMPLES.md)** - 10+ example implementations
 
 ## Files
 
 - `index.html` - Main HTML file
 - `styles.css` - Styling and layout
-- `animation-framework.js` - Core animation framework
-- `app.js` - Application implementation
-- `FRAMEWORK.md` - Complete documentation
+- `animation-framework.js` - Core animation framework (324 lines)
+- `app.js` - Application implementation (146 lines)
+- `QUICKSTART.md` - Quick start guide
+- `FRAMEWORK.md` - Complete API documentation
+- `EXAMPLES.md` - Example implementations
 
 ## Customization
 
